@@ -3412,3 +3412,5 @@ mod test;
 mod test_advanced;
 #[cfg(test)]
 mod test_offline;
+#[cfg(test)]
+mod test_confidence_bounds;
